@@ -1,0 +1,1 @@
+Install the [YoWASP VS Code extension](https://marketplace.visualstudio.com/items?itemName=yowasp.toolchain), then run the "YoWASP Toolchain: Build..." command.
